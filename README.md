@@ -1,6 +1,7 @@
-# 🏙️ Smart Civic Issue Reporter
+## 🏙️ Smart Civic Issue Reporter
 
 A production-ready full-stack web platform that enables citizens to report civic issues (potholes, garbage, streetlight failures, etc.) with **AI-powered image classification**, **automatic geolocation**, and **real-time status tracking**. Municipal authorities manage issues through a secure dashboard while the public gets full transparency.
+<br>
 built with the help of @DEEPAK PASWAN (dpkpaswan)
 ---
 
